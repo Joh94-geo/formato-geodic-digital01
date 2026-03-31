@@ -1,0 +1,13 @@
+{
+  "simple_fields": {
+    "Taladro/Operador": {"zone": [140,220,520,280], "cell": "B8"},
+    "Fecha": {"zone": [900,250,1250,320], "cell": "G9"},
+    "Zona": {"zone": [150,300,520,360], "cell": "B10"},
+    "Observaciones": {"zone": [200,1600,1400,1820], "cell": "I16"}
+  },
+  "table": {
+    "start_row": 18,
+    "column": "B",
+    "zones": [ [180,450,350,500], [180,500,350,550], [180,550,350,600] ]
+  }
+}
